@@ -1,7 +1,7 @@
 Open the BourbonStateGaming.json in your favorite text editor.
 
 Do a find and replace for "D:/Files/Dropbox/" without quotes
-and replace it withe file location of this repository. 
+and replace it with the file location of this repository. 
 
 Save and close the file.
 
